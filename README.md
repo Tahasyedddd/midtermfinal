@@ -1,4 +1,4 @@
 # midtermfinal
 for demo
 
-[edit here](https:lldiy-pwa.com/~/gh/Tahasyedddd/midtermfinal)
+[edit here](https://diy-pwa.com/~/gh/Tahasyedddd/midtermfinal)
